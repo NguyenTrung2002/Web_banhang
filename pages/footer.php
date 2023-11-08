@@ -1,0 +1,27 @@
+<div class="footer">
+    <div class="footer-basic">
+        <footer>
+            <div class="social">
+                <a href="https://www.instagram.com/">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="https://www.snapchat.com/">
+                    <i class="fab fa-snapchat"></i>
+                </a>
+                <a href="https://twitter.com/?lang=vi">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a href="https://www.facebook.com/">
+                    <i class="fab fa-facebook"></i></a>
+            </div>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="#">Trang chủ</a></li>
+                <li class="list-inline-item"><a href="#">Dịch vụ</a></li>
+                <li class="list-inline-item"><a href="#">Giới thiệu</a></li>
+                <li class="list-inline-item"><a href="#">Liên hệ</a></li>
+                <li class="list-inline-item"><a href="#">Chính sách riêng tư</a></li>
+            </ul>
+            <p class="copyright">NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT</p>
+        </footer>
+    </div>
+</div>
