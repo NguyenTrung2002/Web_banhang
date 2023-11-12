@@ -1,3 +1,4 @@
+<div class="container">
 <div class="footer">
     <div class="footer-basic">
         <footer>
@@ -15,7 +16,7 @@
                     <i class="fab fa-facebook"></i></a>
             </div>
             <ul class="list-inline">
-                <li class="list-inline-item"><a href="#">Trang chủ</a></li>
+                <li class="list-inline-item"><a href="index.php">Trang chủ</a></li>
                 <li class="list-inline-item"><a href="#">Dịch vụ</a></li>
                 <li class="list-inline-item"><a href="#">Giới thiệu</a></li>
                 <li class="list-inline-item"><a href="#">Liên hệ</a></li>
@@ -24,4 +25,5 @@
             <p class="copyright">NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT</p>
         </footer>
     </div>
+</div>
 </div>

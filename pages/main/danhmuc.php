@@ -8,7 +8,7 @@
     $query_cate = mysqli_query($conn, $sql_cate);
     $row_title = mysqli_fetch_array($query_cate);
 ?>
-<center><h3><?php echo $row_title['ten_danhmuc']?></h3></center>
+<h3><?php echo $row_title['ten_danhmuc']?></h3>
 <?php
     while($row_pro = mysqli_fetch_array($query_pro)){
 ?>

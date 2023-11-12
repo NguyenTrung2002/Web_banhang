@@ -1,4 +1,4 @@
-<center><h3>Tất cả sản phẩm</h3></center>
+<h3>Tất cả sản phẩm</h3>
 <?php
     $sql_pro = "SELECT * FROM tbl_sanpham, tbl_danhmuc WHERE tbl_sanpham.id_danhmuc = tbl_danhmuc.id_danhmuc
      ORDER BY tbl_sanpham.id_sanpham DESC";

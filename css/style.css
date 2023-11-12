@@ -38,7 +38,7 @@ body{
 }
 .footer{
     margin-top: 5px;
-    border: 1px solid #000;
+    border-top: 1px solid #000;
     height: auto;
     width: 100%;
     background: #02eb86;
