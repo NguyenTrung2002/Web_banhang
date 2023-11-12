@@ -10,7 +10,7 @@
 <div class="card" style="width: 16rem">
     <a style="text-decoration: none" href="index.php?quanly=sanpham&id=<?php echo $row['id_sanpham']?>">
     <img src="admincp/modules/quanlysanpham/Upload/<?php
-     echo $row['hinhanh_sanpham']?>" class="card-img-top" alt="..."  width = 130px height = 100px>
+     echo $row['hinhanh_sanpham']?>" class="card-img-top" alt="..."  width = 254px height = 340px>
         <div class="card-body">
             <center>
                 <p class="card-text">Tên sản phẩm: <?php echo $row['ten_sanpham']?></p>

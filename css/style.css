@@ -25,18 +25,10 @@ body{
     height: 400px;
     width: 100%;
 }
-.sidebar{
-    border: 1px solid #000;
-    height: auto;
-    width: 20%;
-    margin-top: 5px;
-    margin-left: 5px;
-    float: left;
-}
 .maincontent{
     height: auto;
-    width: 79%;
-    float: right;
+    width: auto;
+    float: left;
     margin-top: 5px;
     margin-left: 5px;
     
@@ -52,8 +44,13 @@ body{
     background: #02eb86;
 }
 .card{
+    height: 493px;
+    width: 254px;
     float: left;
     margin: 5px;
+}
+.clear{
+  clear: both;
 }
 .footer-basic {
     padding:40px 0;

@@ -1,7 +1,6 @@
+<div class="container">
 <div class="main">
-    <?php
-        include("slidebar/slidebar.php")
-    ?>
+  
     <div class="maincontent">
         <?php
             if(isset($_GET['quanly'])){

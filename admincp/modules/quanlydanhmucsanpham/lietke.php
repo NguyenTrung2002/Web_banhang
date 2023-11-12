@@ -1,5 +1,5 @@
 <?php
-$sql_lietke_danhmucsp = "SELECT * FROM tbl_danhmuc ORDER BY thutu_danhmuc DESC";
+$sql_lietke_danhmucsp = "SELECT * FROM tbl_danhmuc";
 $query_lietke_danhmucsp = mysqli_query($conn, $sql_lietke_danhmucsp);
 ?>
 <p>Liệt kê danh mục sản phẩm</p>

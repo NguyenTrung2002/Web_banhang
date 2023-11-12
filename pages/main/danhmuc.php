@@ -14,7 +14,7 @@
 ?>
 <div class="card" style="width: 16rem;">
         <a style="text-decoration: none" href="index.php?quanly=sanpham&id=<?php echo $row_pro['id_sanpham']?>">
-            <img src="admincp/modules/quanlysanpham/Upload/<?php echo $row_pro['hinhanh_sanpham']?>" class="card-img-top" alt="..."  width = 130px height = 100px>
+            <img src="admincp/modules/quanlysanpham/Upload/<?php echo $row_pro['hinhanh_sanpham']?>" class="card-img-top" alt="..."  width = 254px height = 340px>
             <div class="card-body">
                 <center>
                     <p class="card-text">Tên sản phẩm: <?php echo $row_pro['ten_sanpham']?></p>
